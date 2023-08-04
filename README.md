@@ -1,1 +1,3 @@
-# alx-system_engineering-devops
+#!/bin/bash
+These are scripts for shell basics
+\n
